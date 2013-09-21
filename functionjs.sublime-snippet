@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+
+
+
+
+
+
+
+
+
+
+			/*--------------------------------------------------------------------------------------
+			 *
+			 * @name: ${1:function_name}
+			 * @description: ${2:Function Description}
+			 *
+			 *-------------------------------------------------------------------------------------*/
+			${1:function_name} : function() {
+
+				${3:// Function content}
+
+			} // ${1:function_name}
+]]></content>
+	<tabTrigger>functionjs</tabTrigger>
+</snippet>
